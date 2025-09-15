@@ -9,7 +9,7 @@ aws-etl-youtube-pipeline/
 │── requirements.txt
 │
 ├── config/
-│   └── config.yaml         # Safe settings (search term, DB name, etc.)
+│   └── config.yaml        
 │
 ├── src/
 │   ├── extract.py
@@ -19,8 +19,7 @@ aws-etl-youtube-pipeline/
 │   └── pipeline.py         # Or etl_to_mongo.py (main script)
 │
 ├── data/
-│   ├── raw/                # Optional: save raw API responses
-│   └── processed/          # Optional: save cleaned data
+│   └── youtube_videos.csv/          # YouTube video data
 │
 ├── notebooks/
 │   └── analysis.ipynb      # Jupyter notebook for EDA & visualization
