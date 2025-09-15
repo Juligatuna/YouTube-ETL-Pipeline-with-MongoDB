@@ -34,9 +34,8 @@ aws-etl-youtube-pipeline/
 git clone
 ```bash
 https://github.com/<your-username>/aws-etl-youtube-pipeline.git
-```
 cd aws-etl-youtube-pipeline
-
+```
 2. Create & Activate Virtual Environment
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
