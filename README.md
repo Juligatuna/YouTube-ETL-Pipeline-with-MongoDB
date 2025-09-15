@@ -32,7 +32,9 @@ aws-etl-youtube-pipeline/
 🚀 Setup Instructions
 1. Clone the Repository
 git clone
+```bash
 https://github.com/<your-username>/aws-etl-youtube-pipeline.git
+```
 cd aws-etl-youtube-pipeline
 
 2. Create & Activate Virtual Environment
