@@ -1,0 +1,7 @@
+database:
+  db: youtube_etl
+  collection: videos
+
+query:
+  search_term: "data engineering"
+  max_results: 10

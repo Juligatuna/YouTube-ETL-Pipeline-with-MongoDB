@@ -1,0 +1,22 @@
+# Core
+python-dotenv
+pyyaml
+
+# YouTube API
+google-api-python-client
+
+# Database
+pymongo
+
+# Data handling & analysis
+pandas
+numpy
+
+# Jupyter & visualization
+notebook
+jupyter
+matplotlib
+seaborn
+
+# Utilities
+tqdm
