@@ -22,7 +22,7 @@ aws-etl-youtube-pipeline/
 │   └── youtube_videos.csv/          # YouTube video data
 │
 ├── notebooks/
-│   └── analysis.ipynb      # Jupyter notebook for EDA & visualization
+│   └── Youtube Analysis from MongoDB.ipynb     # Jupyter notebook for EDA & visualization
 │
 └── tests/
     └── test_pipeline.py
